@@ -1,0 +1,50 @@
+Escreva um programa que imprima os números de 1 a 10.
+Escreva um programa que imprima os números pares de 1 a 20.
+Escreva um programa que calcule a soma de 1 a 100.
+Escreva um programa que calcule o fatorial de um número.
+Escreva um programa que verifique se um número é primo.
+Escreva um programa que calcule a média de um array de números.
+Escreva um programa que encontre o maior elemento em um array.
+Escreva um programa que inverta um string.
+Escreva um programa que conte o número de vogais em um string.
+Escreva um programa que remova elementos duplicados de um array.
+Escreva um programa que verifique se um string é um palíndromo.
+Escreva um programa que gere os primeiros n números da sequência de Fibonacci.
+Escreva um programa que verifique se um número é par ou ímpar.
+Escreva um programa que calcule a soma dos dígitos de um número.
+Escreva um programa que calcule a área de um triângulo.
+Escreva um programa que ordene um array de números em ordem crescente.
+Escreva um programa que encontre o segundo menor elemento em um array.
+Escreva um programa que calcule a raiz quadrada de um número.
+Escreva um programa que calcule a potência de um número.
+Escreva um programa que calcule o máximo divisor comum (MDC) de dois números.
+Escreva um programa que converta um número decimal para binário.
+Escreva um programa que calcule o comprimento de uma string.
+Escreva um programa que encontre o menor elemento em um array.
+Escreva um programa que verifique se um número é positivo, negativo ou zero.
+Escreva um programa que gere uma sequência de números primos.
+Escreva um programa que calcule a média ponderada de um conjunto de notas.
+Escreva um programa que remova todos os espaços em branco de um string.
+Escreva um programa que encontre o maior elemento em uma matriz.
+Escreva um programa que verifique se um ano é bissexto.
+Escreva um programa que calcule o fatorial de um número usando recursão.
+Escreva um programa que calcule a soma dos elementos em uma matriz.
+Escreva um programa que encontre a diferença entre o maior e o menor elemento em um array.
+Escreva um programa que verifique se um número é múltiplo de outro.
+Escreva um programa que verifique se um número é primo usando o Teorema de Fermat.
+Escreva um programa que calcule a média aritmética de um array de números.
+Escreva um programa que ordene um array de strings em ordem alfabética.
+Escreva um programa que encontre o segundo maior elemento em um array.
+Escreva um programa que calcule o resto da divisão de dois números.
+Escreva um programa que inverta a ordem dos elementos em um array.
+Escreva um programa que verifique se uma string contém outra.
+Escreva um programa que calcule a área de um círculo.
+Escreva um programa que verifique se um número é perfeito.
+Escreva um programa que calcule a soma dos dígitos de um número usando recursão.
+Escreva um programa que verifique se um número é um quadrado perfeito.
+Escreva um programa que encontre o terceiro menor elemento em um array.
+Escreva um programa que conte o número de palavras em um string.
+Escreva um programa que remova todos os elementos duplicados de uma matriz.
+Escreva um programa que verifique se uma string é um pangrama.
+Escreva um programa que verifique se um número é uma potência de dois.
+Escreva um programa que calcule o cosseno de um ângulo em radianos.
