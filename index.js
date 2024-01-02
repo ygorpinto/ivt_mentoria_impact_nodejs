@@ -45,6 +45,26 @@ app.delete('/api/v1/users/:nome', (req, res) => {
 
 })
 
+app.put('/api/v1/users/:nome',(req,res) => {
+  if (users.find(i => i.name == req.params.nome)) {
+    // atualiza!
+    let oldUser = users.find( i => i.name == req.params.nome)
+    let newUser = req.body
+    users = users.filter( i => i.name != oldUser.name);
+    users.push(newUser);
+    res.send({
+      status: "success",
+      message: "Usuario com nome " + oldUser.name + " atualizado para " + newUser.name
+    });
+  } else {
+    // se nao dou o erro
+    res.send({
+      status: "failed",
+      message: "Usuario com nome " + req.params.nome + " nao existe"
+    });
+  }
+})
+
 app.listen(port, () => {
   console.log(`API plataforma impact rodando na porta... ${port}`)
 })
