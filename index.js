@@ -48,3 +48,5 @@ app.delete('/api/v1/users/:nome', (req, res) => {
 app.listen(port, () => {
   console.log(`API plataforma impact rodando na porta... ${port}`)
 })
+
+module.exports = app
